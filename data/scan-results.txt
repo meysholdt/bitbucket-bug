@@ -1,0 +1,84 @@
+8.0: Bug Absent: 400
+8.1.1: Bug Absent: 400
+8.2: Bug Absent: 400
+8.3: Bug Absent: 302
+8.4: Bug Absent: 302
+8.5: Bug Absent: 302
+8.6: Bug Absent: 302
+8.7: Bug Absent: 302
+8.8: Bug found: 412 and 302
+8.9: Bug found: 412 and 302
+8.10: Bug found: 412 and 302
+8.11: Bug found: 412 and 302
+8.12: Bug found: 412 and 302
+8.13: Bug found: 412 and 302
+8.14: Bug found: 412 and 302
+8.15: Bug found: 412 and 302
+8.16: Bug found: 412 and 302
+8.17: Bug found: 412 and 302
+8.18: Bug found: 412 and 302
+8.19: Bug found: 412 and 302
+
+
+
+8.7.5: Bug Absent: 302
+8.8: Bug found: 412 and 302
+8.8.0: Bug Absent: 302
+8.8.1: Bug Absent: 302
+8.8.2: Bug Absent: 302
+8.8.3: Bug Absent: 302
+8.8.4: Bug Absent: 302
+8.8.5: Bug Absent: 302
+8.8.6: Bug Absent: 302
+8.8.7: Bug found: 412 and 302
+8.9: Bug found: 412 and 302
+8.9.0: Bug Absent: 302
+8.9.1: Bug Absent: 302
+
+8.8.7: Bug found: 412 and 302
+8.9: Bug found: 412 and 302
+8.9.0: Bug Absent: 302
+8.9.1: Bug Absent: 302
+8.9.2: Bug Absent: 302
+8.9.3: Bug Absent: 302
+8.9.4: Bug found: 412 and 302
+8.9.5: Bug found: 412 and 302
+8.9.6: Bug found: 412 and 302
+8.9.7: Bug found: 412 and 302
+8.9.8: Bug found: 412 and 302
+8.9.9: Bug found: 412 and 302
+
+
+8.9.14: Bug found: 412 and 302
+8.10: Bug found: 412 and 302
+8.10.0: Bug Absent: 302
+8.10.1: Bug Absent: 302
+8.10.2: Bug Absent: 302
+8.10.3: Bug Absent: 302
+8.10.4: Bug found: 412 and 302
+8.10.5: Bug found: 412 and 302
+8.10.6: Bug found: 412 and 302
+8.11: Bug found: 412 and 302
+8.11.0: Bug Absent: 302
+
+8.11: Bug found: 412 and 302
+8.11.0: Bug Absent: 302
+8.11.1: Bug Absent: 302
+8.11.2: Bug Absent: 302
+8.11.3: Bug found: 412 and 302
+8.11.4: Bug found: 412 and 302
+8.11.5: Bug found: 412 and 302
+8.11.6: Bug found: 412 and 302
+8.12: Bug found: 412 and 302
+8.12.0: Bug Absent: 302
+
+8.12: Bug found: 412 and 302
+8.12.0: Bug Absent: 302
+8.12.1: Bug found: 412 and 302
+8.12.2: Bug found: 412 and 302
+8.12.3: Bug found: 412 and 302
+8.12.4: Bug found: 412 and 302
+8.12.5: Bug found: 412 and 302
+8.12.6: Bug found: 412 and 302
+8.13: Bug found: 412 and 302
+8.13.0: Bug found: 412 and 302
