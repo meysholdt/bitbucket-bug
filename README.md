@@ -1,4 +1,4 @@
-# ButBucket bug OAUTH20-2488
+# BitBucket bug OAUTH20-2488
 
 This repository holds scipts and data relared to finding Bitbucket versions affected by bug 
 [OAUTH20-2488](https://jira.atlassian.com/browse/OAUTH20-2488)
